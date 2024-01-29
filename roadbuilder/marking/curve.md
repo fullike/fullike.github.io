@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curve Marking
-parent: Mark
+parent: Marking
+grand_parent: RoadBuilder
 nav_order: 3
 ---

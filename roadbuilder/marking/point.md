@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Getting Started
+title: Point Marking
+parent: Marking
+grand_parent: RoadBuilder
 nav_order: 2
 ---
 
