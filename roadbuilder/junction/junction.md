@@ -8,26 +8,12 @@ permalink: /roadbuilder/junction
 ---
 
 # Junction
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
----
 
 ## Creating junctions
 
 A junction can be created automatically by the intersection of multiple roads.
 
-
-
 A junction can also be created by gathered end-points of different roads.
-
 
 ## Ramp
 
