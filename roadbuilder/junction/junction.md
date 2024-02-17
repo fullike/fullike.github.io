@@ -8,13 +8,18 @@ permalink: /roadbuilder/junction
 ---
 
 # Junction
+---
 
 ## Creating junctions
-
+<br>
+![](001.gif)
 A junction can be created automatically by the intersection of multiple roads.
-
+<br>
+<br>
+![](002.gif)
 A junction can also be created by gathered end-points of different roads.
 
 ## Ramp
-
-A ramp junction can be created by dragging a ramp road to a proper lane of the main road.
+<br>
+![](003.gif)
+A ramp junction can be created by dragging a ramp road to a proper lane of the primary road.
