@@ -20,4 +20,4 @@ Left click any junction to display all included links.
 <br>
 <br>
 ![](005.gif)
-Left click any link to select it, you can adjust the curvature of each links.
+Left click any link to select it, you can adjust the curvature radius of each links.

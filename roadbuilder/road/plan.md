@@ -19,7 +19,7 @@ Right click multiple times in the viewport to create a serial of control points.
 ## Dragging control point
 <br>
 ![](002.gif)
-Select a control point and drag it, or you can enter precise coordinates.
+Select a control point and drag it, or you can type in precise coordinates.
 
 ## Curvature
 <br>
