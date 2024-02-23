@@ -18,7 +18,7 @@ nav_order: 2
 ![](002.gif)
 
 {: .note }
-Use the **Home/End** key to quickly select adjacent lanes and the **Tab** key to quickly select the next lane segment, which can be useful when you select a collapsed lane.
+Use the **Home/End** key to quickly select adjacent lanes and the **Tab** key to quickly select the next lane segment, which can be helpful when you want to select a collapsed or very thin lane.
 
 - **Right click** the selected lane to split it into segments at click point.
 ![](003.gif)
