@@ -12,31 +12,31 @@ nav_order: 1
 Click **Road** tab and **Plan** button to activate road plan mode.
 
 ## Creating a simple road
-<br>
+
+- **Right click** multiple times in the viewport to create a serial of control points.
 ![](001.gif)
-Right click multiple times in the viewport to create a serial of control points.
 
 ## Dragging control point
-<br>
+
+- **Left click** control point to select it, you can drag it or type in precise coordinates in property editor.
 ![](002.gif)
-Select a control point and drag it, or you can type in precise coordinates.
 
 ## Curvature
-<br>
+
+- You can adjust the curvature of each control point, and control the curvature gradient via the CurvatureBlend parameter.
 ![](003.gif)
-You can adjust the curvature of each control point, and control the curvature gradient via the CurvatureBlend parameter.
 
 {: .note }
 Variable curvature is generally used for the transition from straight roads to curved roads. CurvatureBlend parameter controls the ratio of variable curvature to fixed curvature, with 0 representing the entire section of road being fixed curvature, 1 representing the entire section of road being variable curvature, and 0.5 being half each.
 
 ## Road style
-<br>
+
+- Choose appropriate road style before creating roads.
 ![](004.gif)
-Choose appropriate road style before creating roads.
-<br>
-You can also create custom road styles by clicking the **Create** button.
+
+- You can also create custom road styles by clicking the **Create** button.
 
 ## Base height
-<br>
+
+- You can adjust base height of the road before creating it.
 ![](005.gif)
-You can adjust base height of the road before creating it.

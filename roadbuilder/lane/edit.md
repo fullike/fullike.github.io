@@ -11,17 +11,20 @@ nav_order: 2
 
 - Click **Lane** tab and **Edit** button to activate lane edit mode.
 
-- Left click any road or junction to display all included lanes.
+- **Left click** any road or junction to display all included lanes.
 ![](001.gif)
 
-- Left click any lane to select it, you can change lane type and start distance of the lane segment.
+- **Left click** any lane to select it, you can change lane type and start distance of the lane segment.
 ![](002.gif)
 
-- Right click the selected lane to split it into segments at click point.
+{: .note }
+Use the **Home/End** key to quickly select adjacent lanes and the **Tab** key to quickly select the next lane segment, which can be useful when you select a collapsed lane.
+
+- **Right click** the selected lane to split it into segments at click point.
 ![](003.gif)
 
-- Right click on either side of the selected lane to duplicate it.
+- **Right click** on either side of the selected lane to duplicate it.
 ![](004.gif)
 
-- Press delete key to delete the selected lane segment.
+- Press **Delete** key to delete the selected lane segment.
 ![](005.gif)
